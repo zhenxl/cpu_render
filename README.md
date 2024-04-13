@@ -2,9 +2,11 @@
 cpu renderer
 
 # feature
--. implement multiple importance rendering
--. support disney pricinpled bsdf
--. implement vol path rendering
+- implement multiple importance rendering
+
+- support disney pricinpled bsdf
+
+- implement vol path rendering
 # show
 | |
 | :----------------------------------------: |
